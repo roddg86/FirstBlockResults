@@ -12,4 +12,4 @@
 
 # Блок схема алгоритма
 
-![Блок схема][BlockDiagram]
+![label](BlockDiagram)
